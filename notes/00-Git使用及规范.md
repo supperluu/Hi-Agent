@@ -168,4 +168,4 @@ gh --version
 
 ##### 2.2 GitHub Copilot
 直接问助手
-![图片](./images/00/Copilot.png)
+![图片](./images/00/copilot-msg.png)
